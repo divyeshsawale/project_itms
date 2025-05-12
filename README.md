@@ -1,5 +1,5 @@
 # project_itms
 this is my first repo
 <br>
-author - Divyesh Sawale vjhgjg
-
+author - Divyesh Sawale (ITMS)
+git 
